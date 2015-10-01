@@ -1,0 +1,377 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bgs",
+				"bgsz-cv	background-size: cover;"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"pri",
+				"primary-color"
+			],
+			[
+				"contai",
+				"container-width"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"mt",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"max",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"tag",
+				"Emmet: Rename Tag"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"jek",
+				"Set Syntax: HTML (Jekyll)"
+			],
+			[
+				"ren",
+				"Emmet: Rename Tag"
+			],
+			[
+				"emmet se",
+				"Emmet: Select Next Item"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"emmet",
+				"Emmet: Update Image Size"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"oackage",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Repository/Blog"
+	],
+	"file_history":
+	[
+		"/D/Dropbox/repository/templates/posts/basket/fallout4.md",
+		"/D/Dropbox/repository/Blog/_layouts/default.html",
+		"/D/Dropbox/repository/Blog/_layouts/wrapper.html",
+		"/D/Dropbox/repository/Blog/stylesheets/styles.scss",
+		"/D/Dropbox/repository/Blog/_posts/2015-05-20-Looking-for-DDR3-1333-Ripjaws-module-Jun-2014.md",
+		"/D/Dropbox/repository/Blog/thanks.md",
+		"/D/Dropbox/repository/Blog/blog.html",
+		"/D/Dropbox/repository/Blog/_includes/working.html",
+		"/D/Dropbox/repository/Blog/cat/TODO.md",
+		"/D/Dropbox/repository/Blog/checklists/biking.md",
+		"/D/Dropbox/repository/Blog/_includes/footer.html",
+		"/D/Dropbox/repository/Blog/_layouts/default_cat.html",
+		"/D/Dropbox/repository/Blog/cat/_includes/contact.html",
+		"/D/Dropbox/repository/Blog/_layouts/default_cat.html.bak",
+		"/D/Dropbox/repository/Blog/cat/index.html",
+		"/D/Dropbox/repository/Blog/TODO.md",
+		"/D/Dropbox/repository/Blog/_includes/head.html",
+		"/D/Dropbox/repository/Blog/cat/_layouts/default.html",
+		"/D/Dropbox/repository/Blog/_includes/contact.html",
+		"/D/Dropbox/repository/Blog/cat/thanks.md",
+		"/D/Dropbox/repository/Blog/javascripts/scrolling.coffee",
+		"/D/Dropbox/repository/Blog/_config.yml",
+		"/C/Users/fsalg_000/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/fsalg_000/AppData/Roaming/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
+		"/D/Dropbox/repository/Blog/_includes/head_cat.html",
+		"/D/Dropbox/repository/bootstrap-motivate/package.json",
+		"/D/Dropbox/repository/bootstrap-motivate/docs/dist/css/bootstrap.css",
+		"/D/Dropbox/repository/Blog/index.html",
+		"/D/Dropbox/repository/Blog/portfolio/index.md",
+		"/D/Dropbox/repository/bootstrap-motivate/less/variables.less",
+		"/D/Dropbox/repository/Blog/bio.md",
+		"/C/Users/fsalg_000/Desktop/bootstrap/_alerts.scss",
+		"/C/Users/fsalg_000/Desktop/bootstrap/stylesheets/_bootstrap-compass.scss",
+		"/C/Users/FSALG_~1/AppData/Local/Temp/7zEE879.tmp/_tables.scss",
+		"/C/Users/FSALG_~1/AppData/Local/Temp/7zE392B.tmp/_bootstrap-variables.sass",
+		"/C/Users/FSALG_~1/AppData/Local/Temp/7zEB5FD.tmp/_bootstrap-compass.scss",
+		"/C/Users/FSALG_~1/AppData/Local/Temp/7zEC437.tmp/_bootstrap.scss",
+		"/D/Dropbox/repository/Blog/javascripts/checklist.coffee",
+		"/D/Dropbox/repository/Blog/javascripts/checklists-index.coffee",
+		"/C/Users/fsalg_000/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Dropbox/repository/Blog/localpackages.txt",
+		"/C/Users/fsalg_000/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/D/Dropbox/repository/Blog/serve.bat",
+		"/D/Dropbox/repository/Blog/Gemfile",
+		"/D/Dropbox/repository/Blog/stylesheets/styles.css",
+		"/D/Dropbox/repository/Blog/checklists/index.md",
+		"/D/Dropbox/repository/Blog/_layouts/checklists.html",
+		"/D/Dropbox/repository/Blog/stylesheets/checklists.css",
+		"/D/Dropbox/repository/Blog/javascripts/checklists.js",
+		"/C/Users/fsalg_000/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Dropbox/repository/Blog/robots.txt",
+		"/D/Dropbox/repository/Blog/_includes/google_analytics.html",
+		"/D/Dropbox/repository/Blog/404.html",
+		"/D/Dropbox/repository/Blog/blog.sublime-project"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"well",
+			"border-color",
+			"tab_",
+			"brand-info",
+			"btn-primary",
+			"primary",
+			"background",
+			"navbar-brand",
+			"font",
+			"Lato",
+			"dotted",
+			"ruby",
+			"#e7e7e7",
+			"indent",
+			"shadow",
+			">\n",
+			"!\n",
+			"\nIf you don't mind, please\n<a href=\"https://github.com/Haacked/haacked.com/issues/new\">log an issue</a>\nwith the URL you were trying to reach and where you found the URL. Thanks!",
+			">\n",
+			"---",
+			".\n",
+			"com",
+			"haacked.\nwith",
+			".\n",
+			"com",
+			"indent"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$border-color"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "piyb-landing-page.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
